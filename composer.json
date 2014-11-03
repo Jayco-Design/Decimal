@@ -1,0 +1,21 @@
+{
+    "name": "Jaycodesign/Decimal",
+    "description": "Simple wrapper around BC Math for simple math functions",
+    "license": "MIT",
+    "keywords": ["decimal", "bc math", "bcmath"],
+    "authors": [
+        {
+            "name": "Jordan Clist",
+            "email": "jordan@JaycoDesign.co.nz"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jaycodesign\\Decimal\\": "src"
+        }
+    }
+}
