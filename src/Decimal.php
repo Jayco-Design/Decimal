@@ -1,4 +1,4 @@
-<?php namespace Jaycodesign\Decimal;
+<?php namespace JaycoDesign\Decimal;
 
 class Decimal {
 

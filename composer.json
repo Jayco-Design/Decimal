@@ -1,5 +1,5 @@
 {
-    "name": "Jaycodesign/Decimal",
+    "name": "jaycodesign/decimal",
     "description": "Simple wrapper around BC Math for simple math functions",
     "license": "MIT",
     "keywords": ["decimal", "bc math", "bcmath"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jaycodesign\\Decimal\\": "src"
+            "JaycoDesign\\Decimal\\": "src"
         }
     }
 }

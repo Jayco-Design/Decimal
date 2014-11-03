@@ -1,6 +1,6 @@
 <?php
 
-use Jaycodesign\Decimal\Decimal;
+use JaycoDesign\Decimal\Decimal;
  
 class DecimalTest extends PHPUnit_Framework_TestCase {
  
