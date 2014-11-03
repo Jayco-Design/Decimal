@@ -11,7 +11,7 @@ Here is a minimal example of a `composer.json` file that just defines a dependen
 
     {
         "require": {
-            "jaycodesign/decimal": "*"
+            "jaycodesign/decimal": "dev-master"
         }
     }
 
