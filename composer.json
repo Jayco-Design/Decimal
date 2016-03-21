@@ -9,7 +9,9 @@
             "email": "jordan@JaycoDesign.co.nz"
         }
     ],
-    "require": {},
+    "require": {
+        "ext-bcmath": "*"
+    },
     "require-dev": {
         "phpunit/phpunit": "4.0.*"
     },
